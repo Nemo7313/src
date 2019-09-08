@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PhoneInfo>
+    
+    <Brand id="1" name="苹果">
+        <type name="iphone5"/>
+        <type name="iphone6"/>
+        <type name="iphone7"/>
+    </Brand>
+<Brand id="2" name="三星">
+        <type name="Note2"/>
+    </Brand>
+<Brand name="三星">
+        <type name="Note2"/>
+    </Brand>
+</PhoneInfo>

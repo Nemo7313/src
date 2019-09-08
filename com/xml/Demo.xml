@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+    <!--学生信息 -->
+    <student id = "s1">
+        <name>
+            理查德<![CDATA[<age>36</age>]]>
+        </name>
+    </student>
+</students>
